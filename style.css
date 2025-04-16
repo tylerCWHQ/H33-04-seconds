@@ -1,0 +1,10 @@
+h1{ 
+    font-size: 40px;
+    color: orange;
+}
+div{
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    border: 8px groove maroon;
+}
